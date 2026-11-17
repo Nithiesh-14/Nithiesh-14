@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Natty 👋
 
-<!--
-**Nithiesh-14/Nithiesh-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cybersecurity Engineer | CSE Student
 
-Here are some ideas to get you started:
+## About Me
+- Computer Science Engineering student.
+- Interested in Cybersecurity and Offensive Security.
+- Learning Python, C, Linux and Computer Networking.
+- Exploring Ethical Hacking and Penetration Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** C, Python
+- **Operating Systems:** Windows, Linux (learning)
+- **Networking:** TCP/IP, DNS, HTTP/HTTPS (learning)
+- **Tools:** Git, GitHub, VS Code
+
+## Currently Learning
+- Python Programming
+- Linux Fundamentals
+- Networking and Security
+
+## Connect With Me
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nithiesh-s-6a9a98312/)
+- **GitHub:** [Nithiesh-14](https://github.com/Nithiesh-14)
