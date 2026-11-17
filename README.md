@@ -1,4 +1,4 @@
-# Hi, I'm Natty 👋
+# Hi, I'm Nithiesh 👋
 
 ### Aspiring Cybersecurity Engineer | CSE Student
 
